@@ -51,7 +51,7 @@ The maximum power transfer theorem tells us that the load should be equal in mag
 
 4.	Verify the measured values of RL at maximum power transfer as same as calculated and found graphically.
 
-**MARK SPLIY UP**
+**MARK SPLIT UP**
 
 <img width="708" height="1280" alt="image" src="https://github.com/user-attachments/assets/31b4f2cc-b3da-4b9f-84bb-27e2b74a5b3e" />
 
